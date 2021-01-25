@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Superheros</string>
+    <string name="ERROR_UNEXPECTED">unexpected errorr</string>
+    <string name="ERROR_INTERNET_CONNECTION">connection error</string>
+    <string name="description">description</string>
+    <string name="name">name</string>
+</resources>
